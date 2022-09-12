@@ -1,0 +1,15 @@
+C:\Users\ajmil\source\repos\Variable Practice Tomatoes\Variable Practice Tomatoes\bin\Debug\net6.0\Variable Practice Tomatoes.exe
+C:\Users\ajmil\source\repos\Variable Practice Tomatoes\Variable Practice Tomatoes\bin\Debug\net6.0\Variable Practice Tomatoes.deps.json
+C:\Users\ajmil\source\repos\Variable Practice Tomatoes\Variable Practice Tomatoes\bin\Debug\net6.0\Variable Practice Tomatoes.runtimeconfig.json
+C:\Users\ajmil\source\repos\Variable Practice Tomatoes\Variable Practice Tomatoes\bin\Debug\net6.0\Variable Practice Tomatoes.dll
+C:\Users\ajmil\source\repos\Variable Practice Tomatoes\Variable Practice Tomatoes\bin\Debug\net6.0\Variable Practice Tomatoes.pdb
+C:\Users\ajmil\source\repos\Variable Practice Tomatoes\Variable Practice Tomatoes\obj\Debug\net6.0\Variable Practice Tomatoes.csproj.AssemblyReference.cache
+C:\Users\ajmil\source\repos\Variable Practice Tomatoes\Variable Practice Tomatoes\obj\Debug\net6.0\Variable Practice Tomatoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajmil\source\repos\Variable Practice Tomatoes\Variable Practice Tomatoes\obj\Debug\net6.0\Variable Practice Tomatoes.AssemblyInfoInputs.cache
+C:\Users\ajmil\source\repos\Variable Practice Tomatoes\Variable Practice Tomatoes\obj\Debug\net6.0\Variable Practice Tomatoes.AssemblyInfo.cs
+C:\Users\ajmil\source\repos\Variable Practice Tomatoes\Variable Practice Tomatoes\obj\Debug\net6.0\Variable Practice Tomatoes.csproj.CoreCompileInputs.cache
+C:\Users\ajmil\source\repos\Variable Practice Tomatoes\Variable Practice Tomatoes\obj\Debug\net6.0\Variable Practice Tomatoes.dll
+C:\Users\ajmil\source\repos\Variable Practice Tomatoes\Variable Practice Tomatoes\obj\Debug\net6.0\refint\Variable Practice Tomatoes.dll
+C:\Users\ajmil\source\repos\Variable Practice Tomatoes\Variable Practice Tomatoes\obj\Debug\net6.0\Variable Practice Tomatoes.pdb
+C:\Users\ajmil\source\repos\Variable Practice Tomatoes\Variable Practice Tomatoes\obj\Debug\net6.0\Variable Practice Tomatoes.genruntimeconfig.cache
+C:\Users\ajmil\source\repos\Variable Practice Tomatoes\Variable Practice Tomatoes\obj\Debug\net6.0\ref\Variable Practice Tomatoes.dll
